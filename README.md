@@ -83,4 +83,5 @@ Expected output for the bundled sample:
 
 ## Verification
 
-Verified against the Aizu Online Judge.
+Verified against the Aizu Online Judge:
+[Problem 1229 — Young, Poor and Busy](https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1229)
