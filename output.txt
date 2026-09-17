@@ -1,0 +1,11 @@
+$ ./young < sample.txt
+$ python3 young.py < sample.txt
+11000 Morioka: 13:35 - 14:05
+0
+11090 Morioka: 11:04 - 14:49
+
+$ ./young Tokyo Hakodate 08:00 23:00 30 < sample.txt         (checkpoint 5)
+$ python3 young.py Tokyo Hakodate 08:00 23:00 30 < sample.txt
+11000 Morioka: 13:35 - 14:05
+0
+9780 Akita: 16:09 - 20:36
